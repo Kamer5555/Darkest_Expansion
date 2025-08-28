@@ -21,4 +21,4 @@ TESTED ON EVERY DLC TURNED ON EXCEPT BUTCHER'S CURSE.
 
 Changelog
 27.08.25
-Darkest Expansion v.1.0 TEST
+Darkest Expansion v.1.0 TEST2s
