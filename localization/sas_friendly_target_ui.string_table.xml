@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+  	<entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Endure]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reclaim]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Redeem]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Suffer]]></entry>
+	<entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Battle Heal]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspiring Cry]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Battlefield Medicine]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Emboldening Vapours]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Divine Grace]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Divine Comfort]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Wyrd Reconstruction]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspiring Tune]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Battle Ballad]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Battlefield Bandage]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Defender]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Command]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Bolster]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Cry Havoc]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Guard Dog]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Fortifying Vapours]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Invigorating Vapours]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Protect Me]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Patch Up]]></entry>
+  </language>
+  <language id="french">
+	<entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Endurer]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Récupération]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Rédemption]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Souffrance]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Soins de combat]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cri de ralliement]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Soins militaires]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapeurs de force]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Grâce divine]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Réconfort divin]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reconstruction Wyrd]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Mélodie exaltante]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Ballade guerrière]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bandages militaires]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Défenseur]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Ordre]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Soutien]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Hurler au loup]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Chien de garde]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapeurs fortifiantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Vapeurs revigorantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Protège-moi]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Rafistolage]]></entry>
+  </language>
+  <language id="german">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Ertragen]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Fordern]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Erlösen]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Leiden]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Kampfheilung]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Begeisternder Schlachtruf]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Gefechtsmedizin]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Ermutigender Dunst]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Göttliche Gnade]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Göttlicher Trost]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Schicksalhafte Heilung]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Stärkende Melodie]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Kampfballade]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Erstversorgung]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Verteidiger]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Befehl]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Zuspruch]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Ruf der Zerstörung]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Wachhund]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Heilender Rauch]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Berauschende Schwaden]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Beschützt mich!]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Zusammenflicken]]></entry>
+  </language>
+  <language id="spanish">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Aguantar]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reclamar]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Redimir]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Sufrir]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Curación de batalla]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Grito de inspiración]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Medicina del campo de batalla]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapores del coraje]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Gracia divina]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Consuelo divino]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reconstrucción del destino]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Tonada inspiradora]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Balada de batalla]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Venda de batalla]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Defensor]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Mando]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Refuerzo]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Grito de confusión]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Perro guardián]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapores fortificantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Vapores vigorizantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Protégeme]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Zurcir heridas]]></entry>
+  </language>
+  <language id="brazilian">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Aguentar]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reaver]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Redenção]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Sofrer]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cura de Batalha]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Grito Inspirador]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Medicina de Batalha]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapores da Coragem]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Graça Divina]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Conforto Divino]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Reconstrução do Destino]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Canção Inspiradora]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Balada da Batalha]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bandagem de Batalha]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Defensor]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Comandar]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Reforçar]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Rosnado da Devastação]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cão de Guarda]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapores Fortificantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Vapores Revigorantes]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Me Proteja]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Remendar]]></entry>
+  </language>
+  <language id="russian">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Терпение]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Возвращение]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Искупление]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Страдание]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Боевое лечение]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Воодушевление]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Боевая медицина]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Ободряющий пар]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Божья милость]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Божье утешение]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Восстановление]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Бодрящая мелодия]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Боевая баллада]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Боевая перевязка]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Защитник]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Команда]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Усиление]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Губительный крик]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Сторожевой пёс]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Укрепляющие благовония]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Бодрящие благовония]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Защити меня]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Подлечить]]></entry>
+  </language>
+  <language id="polish">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Przetrwanie]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Przejęcie]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Odkupienie]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cierpienie]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bitewne Uzdrowienie]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspirujący Okrzyk]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bitewne Panaceum]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Ożywiające Opary]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Boża Łaska]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Boskie Pocieszenie]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cudowna Rekonstrukcja]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspirująca Nuta]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Bitewna Ballada]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bitewny Opatrunek]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Obrońca]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Rozkaz]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Wzmocnienie]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Wyjec]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Pies Stróżujący]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Umacniające Opary]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Orzeźwiające Opary]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Chroń Mnie]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Opatrunek]]></entry>
+  </language>
+  <language id="czech">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vytrvání]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vyrvání]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vykoupení]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Utrpení]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bojové léčení]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspirující pokřik]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bojové léky]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Povzbuzující výpary]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Božská grácie]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Božská útěcha]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Oživení osudu]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Inspirující melodie]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Bojová balada]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Bojová bandáž]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Obránce]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Velení]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Upevnění]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Chaotický řev]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Hlídací pes]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Posilňující výpary]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Povzbuzující výpary]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Braň mě]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Obvazy]]></entry>
+  </language>
+  <language id="italian">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Sopporta]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Rivendica]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Riscatta]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Soffri]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Guarigione in Battaglia]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Chiamata alle Armi]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Medicina da Battaglia]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Tonico Ricostituente]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Grazia Divina]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Conforto Divino]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Rigenerazione Occulta]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Melodia Ispiratrice]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Ballata di Guerra]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Fasciatura di Battaglia]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Difensore]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Comando]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Rinforzo]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Al Lupo! Al Lupo!]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Cane da Guardia]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Vapori Fortificanti]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+Vapori Tonificanti]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Proteggimi]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+Incerottare]]></entry>
+  </language>
+  <language id="schinese">
+  <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+忍耐]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+授教]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+偿赎]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+受难]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+战斗治疗]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+激励呐喊]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+战地医疗]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+壮胆药雾]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+神圣恩惠]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+神圣抚慰]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+命运重构]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+鼓舞乐章]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+战歌]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+战场包扎]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+保护]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+指挥]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+支援]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+振奋吠嚎]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+猎犬守护]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+强健蒸汽]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+提神蒸汽]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+保护我]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+包扎]]></entry>
+  </language>
+  <language id="japanese">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+辛抱]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+再生と犠牲]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+贖い]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+背負う苦しみ]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+戦闘回復]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+気合の叫び]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+戦場医術]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+胆力の煙]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+神の恵み]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+神の癒し]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+宿命の復元]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+鼓舞の調べ]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+バトルバラード]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+戦場包帯法]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+防衛]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+指令]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+士気を鼓舞]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+警告の咆哮]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+番犬]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+活力の煙]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+激励の煙]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+我が身を護れ]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+応急処置]]></entry>
+  </language>
+  <language id="koreanb">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+인내]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+재개]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+만회]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+고통]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+전투 치유]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+격려의 외침]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+야전 의술]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+강화 작용제]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+신의 은총]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+신의 위로]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+기괴한 수복]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+격려의 선율]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+전투의 발라드]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+야전 붕대법]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+수호자]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+통솔]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+고무]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+위험 경고]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+경비견]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+강화 증기]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+활력 증기]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+날 지켜줘]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+치료술]]></entry>
+  </language>
+  <language id="koreana">
+    <entry id="combat_skill_name_flagellant_endure"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+인내]]></entry>
+    <entry id="combat_skill_name_flagellant_reclaim"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+재기]]></entry>
+    <entry id="combat_skill_name_flagellant_redeem"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+구제]]></entry>
+    <entry id="combat_skill_name_flagellant_suffer"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+고통]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+전투 치유]]></entry>
+    <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+격려의 함성]]></entry>
+    <entry id="combat_skill_name_plague_doctor_battlefield_medicine"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+야전 의술]]></entry>
+    <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+강화 작용제]]></entry>
+    <entry id="combat_skill_name_vestal_divine_grace"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+신성한 은총]]></entry>
+    <entry id="combat_skill_name_vestal_gods_comfort"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+신성한 위무]]></entry>
+    <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+기괴한 재구축]]></entry>
+    <entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+격려의 선율]]></entry>
+    <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+전투의 발라드]]></entry>
+    <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+야전 붕대질]]></entry>
+    <entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+수호자]]></entry>
+    <entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+지휘]]></entry>
+    <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+고양]]></entry>
+    <entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+위험 경보]]></entry>
+    <entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+경비견]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+강화의 연막]]></entry>
+    <entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|yes_target_fre} ¤¦¤¦¤¦¤{colour_end}
+고양의 연막]]></entry>
+    <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+동료 방패]]></entry>
+    <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|yes_target_fre} ¤ ¤ ¤ ¤{colour_end}
+응급처치]]></entry>
+	</language>
+</root>
+

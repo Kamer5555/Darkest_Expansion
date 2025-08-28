@@ -1,0 +1,41 @@
+
+musketeer.sprite.aimed_shot.png
+size: 823,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1, 1
+  size: 457, 636
+  orig: 457, 636
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 460, 1
+  size: 361, 498
+  orig: 361, 498
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 460, 501
+  size: 305, 222
+  orig: 305, 222
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 1, 639
+  size: 345, 80
+  orig: 345, 80
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 1, 721
+  size: 154, 18
+  orig: 154, 18
+  offset: 0, 0
+  index: -1

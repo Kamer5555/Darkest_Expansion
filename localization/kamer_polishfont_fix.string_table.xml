@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="polish">
+    <entry id="str_ranged"><![CDATA[{colour_start|UI_attack_type}Dystansowy{colour_end}]]></entry>
+	<entry id="str_melee"><![CDATA[{colour_start|UI_attack_type}Wręcz{colour_end}]]></entry>
+	<entry id="effect_tooltip_party"><![CDATA[{colour_start|UI_attack_target}Wszyscy bohaterowie:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie drużyny:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie drużyny:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other"><![CDATA[{colour_start|UI_attack_target}Inni bohaterowie:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie pozostałych:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie pozostałych:{colour_end}]]></entry>
+    <entry id="effect_tooltip_riposte"><![CDATA[Aktywuje {colour_start|riposte}ripostę{colour_end}]]></entry>
+    <entry id="effect_tooltip_self"><![CDATA[{colour_start|UI_attack_target}Na siebie:{colour_end}]]></entry>
+    <entry id="effect_tooltip_self_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie siebie:{colour_end}]]></entry>
+    <entry id="effect_tooltip_self_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie siebie:{colour_end}]]></entry>
+    <entry id="effect_tooltip_stun"><![CDATA[{colour_start|UI_word_stun}Ogłuszenie{colour_end}]]></entry>
+    <entry id="effect_tooltip_tag"><![CDATA[{colour_start|UI_word_mark}Oznacz{colour_end} Target]]></entry>
+    <entry id="effect_tooltip_target"><![CDATA[{colour_start|UI_attack_target}Na cel:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie celu:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie celu:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group"><![CDATA[{colour_start|UI_attack_target}Drużyna przeciwnika:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie wrogów:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie wrogów:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_other_buff"><![CDATA[{colour_start|UI_attack_target}Wzmocnienie pozostałych wrogów:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_other_debuff"><![CDATA[{colour_start|UI_attack_target}Osłabienie pozostałych wrogów:{colour_end}]]></entry>
+    <entry id="effect_tooltip_torch_format"><![CDATA[Pochodnia %+d]]></entry>
+    <entry id="effect_tooltip_unstun"><![CDATA[Usuń {colour_start|UI_word_stun}ogłuszenie{colour_end}]]></entry>
+    <entry id="effect_tooltip_untag"><![CDATA[Usuń {colour_start|UI_word_mark}oznaczenie{colour_end}]]></entry>
+	<entry id="str_skill_tooltip_back"><![CDATA[%d {colour_start|move}w Tył{colour_end}]]></entry>
+	<entry id="str_skill_tooltip_forward"><![CDATA[%d {colour_start|move}w Przód{colour_end}]]></entry>
+  </language>
+  <language id="english">
+    <entry id="str_ranged"><![CDATA[{colour_start|UI_attack_type}Dystansowy{colour_end}]]></entry>
+	<entry id="str_melee"><![CDATA[{colour_start|UI_attack_type}Wręcz{colour_end}]]></entry>
+	<entry id="effect_tooltip_party"><![CDATA[{colour_start|UI_attack_target}All Heroes:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_buff"><![CDATA[{colour_start|UI_attack_target}Buff Party:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Party:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other"><![CDATA[{colour_start|UI_attack_target}Other Heroes:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other_buff"><![CDATA[{colour_start|UI_attack_target}Buff Others:{colour_end}]]></entry>
+    <entry id="effect_tooltip_party_other_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Others:{colour_end}]]></entry>
+    <entry id="effect_tooltip_riposte"><![CDATA[Activates {colour_start|riposte}Riposte{colour_end}]]></entry>
+    <entry id="effect_tooltip_self"><![CDATA[{colour_start|UI_attack_target}Self:{colour_end}]]></entry>
+    <entry id="effect_tooltip_self_buff"><![CDATA[{colour_start|UI_attack_target}Buff Self:{colour_end}]]></entry>
+    <entry id="effect_tooltip_self_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Self:{colour_end}]]></entry>
+    <entry id="effect_tooltip_stun"><![CDATA[{colour_start|UI_word_stun}Stun{colour_end}]]></entry>
+    <entry id="effect_tooltip_tag"><![CDATA[{colour_start|UI_word_mark}Mark{colour_end} Target]]></entry>
+    <entry id="effect_tooltip_target"><![CDATA[{colour_start|UI_attack_target}Target:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_buff"><![CDATA[{colour_start|UI_attack_target}Buff Target:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Target:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group"><![CDATA[{colour_start|UI_attack_target}Enemy Party:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_buff"><![CDATA[{colour_start|UI_attack_target}Buff Enemies:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Enemies:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_other_buff"><![CDATA[{colour_start|UI_attack_target}Buff Other Enemies:{colour_end}]]></entry>
+    <entry id="effect_tooltip_target_group_other_debuff"><![CDATA[{colour_start|UI_attack_target}Debuff Other Enemies:{colour_end}]]></entry>
+    <entry id="effect_tooltip_torch_format"><![CDATA[Torch %+d]]></entry>
+    <entry id="effect_tooltip_unstun"><![CDATA[Clear {colour_start|UI_word_stun}Stun{colour_end}]]></entry>
+    <entry id="effect_tooltip_untag"><![CDATA[Clear {colour_start|UI_word_mark}Mark{colour_end} On Target]]></entry>
+  </language>
+</root>

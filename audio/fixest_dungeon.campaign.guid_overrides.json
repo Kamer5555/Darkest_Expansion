@@ -1,0 +1,5 @@
+{
+    "event_guid_overrides": [
+        {"event_id": "event:/char/ally/musketeer_skeet_shot_miss",  "guid_override": "{9921cd19-9d16-43a9-942b-8ea78ffcdf20}"}
+    ]
+}

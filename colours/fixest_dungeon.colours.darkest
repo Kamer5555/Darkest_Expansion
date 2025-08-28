@@ -1,0 +1,5 @@
+colour: .id "collector"     .rgba 194 69 0 255
+colour: .id "madman"        .rgba 194 69 0 255
+colour: .id "very_common"   .rgba 80 80 80 255
+colour: .id "dd_talisman"   .rgba 224 39 0 255
+colour: .id "shieldbreaker" .shared_id "harmful"

@@ -1,0 +1,9 @@
+{
+    "rarities": [
+        {
+            "id": "dd_talisman",
+            "award_category": "quest",
+            "insert_before": "trophy"
+        }
+    ]
+}
