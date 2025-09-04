@@ -1,0 +1,4 @@
+background_layout:  .pos -245 0 .controller_pos -245 0
+portrait_layout:	.pos 32 32	.seal_pos 24 23 .controller_button_offset -4 48
+name_layout:		.pos 272 38 .class_y 76 .hero_name_colour 177 161 108 255 .hero_class_colour 154 152 143 175
+ability_layout:		.pos 280 35	.spacing 76 .controller_button_offset 0 10

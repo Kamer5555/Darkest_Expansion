@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="polish">
+    <!-- ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
+    <!-- :::::::::::::::::::::::::::::: Kamer Polish Language Fix :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
+    <!-- ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: -->
     <entry id="str_ranged"><![CDATA[{colour_start|UI_attack_type}Dystansowy{colour_end}]]></entry>
 	<entry id="str_melee"><![CDATA[{colour_start|UI_attack_type}Wręcz{colour_end}]]></entry>
 	<entry id="effect_tooltip_party"><![CDATA[{colour_start|UI_attack_target}Wszyscy bohaterowie:{colour_end}]]></entry>
